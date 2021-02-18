@@ -17,7 +17,7 @@ Note:
 # Version 0.16.558 Patch Notes
 ### The Back To School Update
 
-Update Patch Notes (02/2021 Update)
+Update Patch Notes (02/2021 Update) /
 Caleb.JSON removed briefly due to bug fixes.
 Added Kirk.JSON
 Added Olivia.JSON
