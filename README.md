@@ -18,19 +18,19 @@ Note:
 ### The Back To School Update
 
 Update Patch Notes (02/2021 Update)
-> Caleb.JSON removed briefly due to bug fixes.
-> Added Kirk.JSON
-> Added Olivia.JSON
-> Increased Squidgey Agility +2%
-> Added Holiday Trick Return Event
-> Updated Lawn.png
-> Removed Vine.png
-> Removed Locks on Bathrooms to Increase Community Feel
-> Installed Windows on Bathroom Doors
-> Added Boat Builder Quest
-> Reset BTI Quest
-> Increased Apple Count
-> Increased Global Covid Cases
-> Changed Level Difficulty to 2 (temporarily by dev_jacinda)
-> Removed Oliver
-> Removed Herobrine
+Caleb.JSON removed briefly due to bug fixes.
+Added Kirk.JSON
+Added Olivia.JSON
+Increased Squidgey Agility +2%
+Added Holiday Trick Return Event
+Updated Lawn.png
+Removed Vine.png
+Removed Locks on Bathrooms to Increase Community Feel
+Installed Windows on Bathroom Doors
+Added Boat Builder Quest
+Reset BTI Quest
+Increased Apple Count
+Increased Global Covid Cases
+Changed Level Difficulty to 2 (temporarily by dev_jacinda)
+Removed Oliver
+Removed Herobrine
