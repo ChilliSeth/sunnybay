@@ -37,3 +37,4 @@ Note:
 > Removed Oliver <br />
 > Removed Herobrine <br />
 
+**Future Updates Planned, Refer to my Twitter: https://twitter.com/chillisethy**
